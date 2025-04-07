@@ -1,0 +1,449 @@
+{
+  "Charles de Gaulle International Airport": {
+    "tsa_precheck": null,
+    "liquid_policy": null,
+    "customs_info": null,
+    "terminal_tips": null,
+    "travel_tips": [
+      "Plan extra time to cover the distances between terminals and gates at CDG",
+      "Take the free CDGVal shuttle train to move between terminals, car parks, and train stations",
+      "Terminal 1 is used by Star Alliance carriers and some other non-allied airlines",
+      "Terminal 2 is notoriously confusing and houses all Air France flights, as well as other SkyTeam carriers",
+      "Terminal 3 is the low-cost terminal serving low-fare carriers"
+    ]
+  },
+  "Dubai International Airport": {
+    "tsa_precheck": null,
+    "liquid_policy": null,
+    "customs_info": null,
+    "terminal_tips": null,
+    "travel_tips": [
+      "Dubai Airport is the busiest airport in the world for international passenger traffic",
+      "Emirates is the main airline in Dubai and offers the best connections",
+      "Most major airlines and long-haul flights use Terminal 1",
+      "Public taxis from the airport start at 25 dirham and are readily available outside arrivals",
+      "Dubai Metro Red Line stations are available at Terminals 1 and 3"
+    ]
+  },
+  "Chicago O'Hare International Airport": {
+    "tsa_precheck": null,
+    "liquid_policy": null,
+    "customs_info": null,
+    "terminal_tips": null,
+    "travel_tips": [
+      "Explore the different neighborhoods of Chicago to truly experience the city's culture",
+      "Dress warmly in the winter as Chicago can get very cold",
+      "Utilize the public transportation system including subways and elevated tracks",
+      "Visit world-class museums, sandy beaches, and parks in Chicago",
+      "Enjoy the diverse architecture and iconic sights throughout the city"
+    ]
+  },
+  "Indira Gandhi International Airport": {
+    "tsa_precheck": null,
+    "liquid_policy": null,
+    "customs_info": null,
+    "terminal_tips": "When leaving Delhi from the international terminal, show up 4 hours before your flight. For domestic flights, 3 hours should be enough. Shops and restaurants are located at the gate area, not before security. Change currency before clearing security.",
+    "travel_tips": [
+      "Avoid planning flights during winter months of December and January due to heavy fog disruptions",
+      "Check live on-ground updates of your flights at the airport's website",
+      "Major airlines like British Airways, Emirates, Lufthansa, Singapore Airlines, Air France serve the airport",
+      "Low-cost airlines like Indigo, SpiceJet, Air Asia, and Air India serve almost all big cities on a daily basis",
+      "Cargo facilities available for airlines like FedEx Express, UPS, DHL, Emirates SkyCargo, Cargolux"
+    ]
+  },
+  "Chhatrapati Shivaji International Airport": {
+    "tsa_precheck": null,
+    "liquid_policy": null,
+    "customs_info": null,
+    "terminal_tips": null,
+    "travel_tips": [
+      "Take a prepaid coupon taxi to minimize hassle",
+      "Never pay more than \u20b9600 for a prepaid taxi",
+      "Be careful with the main prepaid counter on the left upon leaving the terminal",
+      "Inspect the bills being paid with and being received",
+      "Purchase a coupon from a taxi office and only enter the taxi with the corresponding registration number"
+    ]
+  },
+  "Ratnagiri Airport": {
+    "tsa_precheck": null,
+    "liquid_policy": null,
+    "customs_info": null,
+    "terminal_tips": null,
+    "travel_tips": [
+      "Visit Bhagvati Bundar and Mandvi Bundar beaches",
+      "Explore Ganapatipule seashore and temple",
+      "Visit Ratnadurga Fort with a temple of Goddess Bhagwati inside",
+      "Check out Thibaw Palace, the last Burmese king's prison",
+      "Stay at Kohinoor Samudra Beach Resort for beach views and amenities"
+    ]
+  },
+  "Cootamundra Airport": {
+    "tsa_precheck": null,
+    "liquid_policy": null,
+    "customs_info": null,
+    "terminal_tips": null,
+    "travel_tips": [
+      "Cootamundra is a rural town in New South Wales, Australia",
+      "The town has historical significance dating back to the Wiradjuri people",
+      "Cootamundra is accessible by car, train, bus, and charter flights",
+      "Visitors can enjoy the Cootamundra Wattle in full bloom in July and August",
+      "Attractions include Sir Donald Bradman's birthplace and the Cricket Captains' Walk"
+    ]
+  },
+  "Echuca Airport": {
+    "tsa_precheck": null,
+    "liquid_policy": null,
+    "customs_info": null,
+    "terminal_tips": null,
+    "travel_tips": [
+      "Echuca-Moama is about 2.5 hours drive from Melbourne CBD",
+      "Walking around town is possible as it is relatively small",
+      "Enjoy activities such as paintball, watersports, riverboat cruises, and eco tours",
+      "Visit local attractions like The Holden Motors museum",
+      "Dine at restaurants like Nik's Greek restaurant, Oscar W's, Ceres, The Star Hotel, and The Black Pudding"
+    ]
+  },
+  "Xingcheng Air Base": {
+    "tsa_precheck": null,
+    "liquid_policy": null,
+    "customs_info": null,
+    "terminal_tips": null,
+    "travel_tips": [
+      "Xingcheng is connected to nearby cities by long distant buses",
+      "Xingcheng has its own railway station, which is in walking distance to Xingcheng Ancient City",
+      "Visit Juehua Island, the biggest island in Liaodong Bay",
+      "Explore Shou Mountain, a national forest park with a beacon tower from Ming Dynasty",
+      "Spend time at Xingcheng Ancient City, one of the ten 'Best Preserved Ancient City from Ming Dynasty'"
+    ]
+  },
+  "King Salman Abdulaziz Airport": {
+    "tsa_precheck": null,
+    "liquid_policy": null,
+    "customs_info": null,
+    "terminal_tips": null,
+    "travel_tips": [
+      "Check the specific location of your destination within the King-related places mentioned",
+      "Be aware of the different countries and states where places named King are located",
+      "Research the local customs and regulations of the specific King-related destination you are visiting",
+      "Consider the climate and geography of the region where the King-related place is situated",
+      "Verify the transportation options available to reach your King-related destination"
+    ]
+  },
+  "Paris-Orly Airport": {
+    "tsa_precheck": null,
+    "liquid_policy": null,
+    "customs_info": null,
+    "terminal_tips": "All four terminals are connected by the Orlyval people mover or a 10-minute walk.",
+    "travel_tips": [
+      "Check with your airline before leaving for the airport.",
+      "Metro line 14 is the easiest option for transportation to the city center.",
+      "Consider taking the Orlyval people mover to Antony station and connecting to the RER B train for another transportation option.",
+      "Tram line T7 is a cheaper but slower option for transportation to the city center.",
+      "For the cheapest option, use bus and tram only for ground transportation."
+    ]
+  },
+  "Henderson Field": {
+    "tsa_precheck": null,
+    "liquid_policy": null,
+    "customs_info": null,
+    "terminal_tips": null,
+    "travel_tips": [
+      "Henderson is accessed between Boulder Hwy and Russell Rd from I-11/515",
+      "Most travelers will arrive at Harry Reid International Airport on commercial flights",
+      "Bus service in East Las Vegas and Henderson is provided by the Regional Transportation Commission (RTC)",
+      "Fares for bus rides are $2 per ride, consider purchasing a 24-hour pass for $5 or a 5-day pass for $20"
+    ]
+  },
+  "Waukegan National Airport": {
+    "tsa_precheck": null,
+    "liquid_policy": null,
+    "customs_info": null,
+    "terminal_tips": null,
+    "travel_tips": [
+      "Chicago O'Hare International Airport (ORD) is the closest international airport to Waukegan",
+      "Milwaukee Mitchell International Airport (MKE) is the next closest international airport to Waukegan"
+    ]
+  },
+  "Al Maktoum International Airport": {
+    "tsa_precheck": null,
+    "liquid_policy": null,
+    "customs_info": null,
+    "terminal_tips": null,
+    "travel_tips": [
+      "Use standardized templates for consistent information",
+      "Add or edit listings by clicking on 'add listing' or 'edit'",
+      "Maintain alphabetical order for listings",
+      "Refer to guidelines for different types of articles",
+      "Manually enter or edit formatted listing templates"
+    ]
+  },
+  "Congo Town Airport": {
+    "tsa_precheck": null,
+    "liquid_policy": null,
+    "customs_info": null,
+    "terminal_tips": null,
+    "travel_tips": [
+      "Check visa requirements before traveling to Congo",
+      "Be aware of the different regions within Congo and their specific safety considerations"
+    ]
+  },
+  "Narromine Airport": {
+    "tsa_precheck": null,
+    "liquid_policy": null,
+    "customs_info": null,
+    "terminal_tips": null,
+    "travel_tips": [
+      "Narromine is accessible by car, coach, or private plane",
+      "The nearest airport with regular passenger transport is Dubbo",
+      "The town is known for gliding activities",
+      "There are various cafes and dining options in Narromine",
+      "Accommodation options include hotels and tourist parks"
+    ]
+  },
+  "Hay Airport": {
+    "tsa_precheck": null,
+    "liquid_policy": null,
+    "customs_info": null,
+    "terminal_tips": null,
+    "travel_tips": [
+      "Hay is a good stop on a long road trip between Sydney and Adelaide",
+      "The landscape is mostly flat with the Murrumbidgee river running through the middle",
+      "Mostly dry arid types of flora with mainly emus and some kangaroos",
+      "Hot during the day and cold during the night",
+      "No car hire available in Hay, so bring your own car or be prepared to walk"
+    ]
+  },
+  "Wangaratta Airport": {
+    "tsa_precheck": null,
+    "liquid_policy": null,
+    "customs_info": null,
+    "terminal_tips": null,
+    "travel_tips": [
+      "Wangaratta is accessible by car via the Hume Freeway between Sydney and Melbourne",
+      "The town has a small bus network for getting around",
+      "Explore the Murray to the Mountains rail trail for cycling",
+      "Visit Warby-Ovens National Park for bushwalking",
+      "Enjoy cafes and wineries in the city center"
+    ]
+  },
+  "Kingaroy Airport": {
+    "tsa_precheck": null,
+    "liquid_policy": null,
+    "customs_info": null,
+    "terminal_tips": null,
+    "travel_tips": [
+      "Enjoy the small town atmosphere of Kingaroy",
+      "Attend annual events like the Wine and Food In The Park Festival",
+      "Try the variety of peanuts available in the area",
+      "Visit the Kingaroy Heritage Museum for local history",
+      "Check out the panoramic view of the town from Mt Wooroolin lookout"
+    ]
+  },
+  "Benalla Airport": {
+    "tsa_precheck": null,
+    "liquid_policy": null,
+    "customs_info": null,
+    "terminal_tips": null,
+    "travel_tips": [
+      "Benalla has an airport but no commercial scheduled flights.",
+      "Local public transport consists of a bus service and taxi service.",
+      "Benalla offers historical museums and sites for visitors to explore.",
+      "Tickets for public transport are available at concession rates.",
+      "The town is a short diversion off the Hume Freeway between Wodonga and Melbourne."
+    ]
+  },
+  "Kempsey Airport": {
+    "tsa_precheck": null,
+    "liquid_policy": null,
+    "customs_info": null,
+    "terminal_tips": null,
+    "travel_tips": [
+      "Kempsey is accessible by train, bus, car, and plane",
+      "Port Macquarie Airport is the closest airport with regular flights to Sydney",
+      "Kempsey has its own airport for charter flights and general aviation",
+      "Avoid discussing the Kempsey bus crash of 1989 to respect locals",
+      "Head south to Port Macquarie or north to Coffs Harbour for further travel"
+    ]
+  },
+  "Chicago Midway International Airport": {
+    "tsa_precheck": null,
+    "liquid_policy": null,
+    "customs_info": null,
+    "terminal_tips": null,
+    "travel_tips": [
+      "Explore the different neighborhoods of Chicago to truly experience the city's culture",
+      "Dress warmly in the winter and be prepared to cover a lot of ground",
+      "Visit world-class museums, sandy beaches, and huge parks in Chicago",
+      "Experience the iconic sights and architecture of Chicago",
+      "Embrace the movement and energy of the city through its subways and elevated tracks"
+    ]
+  },
+  "Bislig Airport": {
+    "tsa_precheck": null,
+    "liquid_policy": null,
+    "customs_info": null,
+    "terminal_tips": null,
+    "travel_tips": [
+      "Nearest airports are in Davao, Butuan, or Tandag",
+      "Bus and minivan services available from nearby cities",
+      "Tricycles are a common mode of transportation within Bislig",
+      "Visit Enchanted River, Tinuy-an Falls, and Baywalk Bislig",
+      "Budget inns and pension houses offer accommodation options"
+    ]
+  },
+  "Tumut Airport": {
+    "tsa_precheck": null,
+    "liquid_policy": null,
+    "customs_info": null,
+    "terminal_tips": null,
+    "travel_tips": [
+      "Most visitors arrive by car",
+      "Charter flights available at airstrip 5 km from town",
+      "Best to have a car to get around Tumut",
+      "Hertz and Avis car rentals available in town",
+      "No local passenger bus service"
+    ]
+  },
+  "Warren Airport": {
+    "tsa_precheck": null,
+    "liquid_policy": null,
+    "customs_info": null,
+    "terminal_tips": null,
+    "travel_tips": [
+      "Make sure to specify the exact location of Warren when booking flights or accommodations",
+      "Check for any specific travel restrictions or requirements in the Warren area"
+    ]
+  },
+  "Ararat Airport": {
+    "tsa_precheck": null,
+    "liquid_policy": null,
+    "customs_info": null,
+    "terminal_tips": null,
+    "travel_tips": [
+      "Visit Mount Ararat in Turkey for a historical experience",
+      "Explore the town of Ararat in Victoria, Australia"
+    ]
+  },
+  "Brewarrina Airport": {
+    "tsa_precheck": null,
+    "liquid_policy": null,
+    "customs_info": null,
+    "terminal_tips": null,
+    "travel_tips": [
+      "Explore the Brewarrina Aboriginal Fish Traps, possibly the oldest human construction in the world",
+      "Learn about the 65,000 years of Aboriginal history in the area",
+      "Visit the memorial erected near the site of the Hospital Creek Massacre",
+      "Discover the riverine heritage of Brewarrina through its paddle steamer history",
+      "Experience the boom time of the 1870s with historical landmarks and developments"
+    ]
+  },
+  "Wau Airport": {
+    "tsa_precheck": null,
+    "liquid_policy": null,
+    "customs_info": null,
+    "terminal_tips": null,
+    "travel_tips": [
+      "Ensure you are traveling to the correct Wau airport based on your destination",
+      "Check the IATA code for the specific Wau airport you are flying to"
+    ]
+  },
+  "Corowa Airport": {
+    "tsa_precheck": null,
+    "liquid_policy": null,
+    "customs_info": null,
+    "terminal_tips": null,
+    "travel_tips": [
+      "Closest airport is at Albury for those traveling by plane",
+      "Corowa is accessible by train connections to Wangaratta and Melbourne, or Albury and Sydney",
+      "Corowa is a 30-minute diversion from the Hume Highway/Freeway via the B58 Riverina Highway for those traveling by car"
+    ]
+  },
+  "Chicago Meigs Airport": {
+    "tsa_precheck": null,
+    "liquid_policy": null,
+    "customs_info": null,
+    "terminal_tips": null,
+    "travel_tips": [
+      "Explore the different neighborhoods of Chicago to truly experience the city's culture",
+      "Dress warmly in the winter as Chicago can get very cold",
+      "Utilize the public transportation system including subways and elevated tracks",
+      "Visit world-class museums, sandy beaches, and iconic architecture in Chicago",
+      "Prepare to cover a lot of ground while exploring Chicago"
+    ]
+  },
+  "Gunnedah Airport": {
+    "tsa_precheck": null,
+    "liquid_policy": null,
+    "customs_info": null,
+    "terminal_tips": null,
+    "travel_tips": [
+      "Gunnedah is accessible by car via the Kamilaroi Highway and the Oxley Highway",
+      "Driver rest areas are available along the highways for breaks",
+      "Visitor Information Centre is located at 83 Chandos Street",
+      "Gunnedah offers accommodation, supermarkets, pubs, bistros, and parks for travellers",
+      "Gunnedah is known for its agricultural industries"
+    ]
+  },
+  "Bo Airport": {
+    "tsa_precheck": null,
+    "liquid_policy": null,
+    "customs_info": null,
+    "terminal_tips": null,
+    "travel_tips": [
+      "Bo is a small city with limited tourist attractions",
+      "Electricity in hotels may only be available at night",
+      "Bars in town serve Star beer at reasonable prices",
+      "Hotels in Bo are very basic compared to Freetown",
+      "The unrelenting heat and humidity can make life unpleasant"
+    ]
+  },
+  "Smithton Airport": {
+    "tsa_precheck": null,
+    "liquid_policy": null,
+    "customs_info": null,
+    "terminal_tips": null,
+    "travel_tips": [
+      "Smithton is best accessed by car as it is the most practical way to get there",
+      "Check the seven-day weather forecast for Smithton before traveling",
+      "Explore Circular Head Heritage Centre and Allendale Gardens & Rainforest Walks",
+      "Enjoy dining at local restaurants like Jade Dragon Chinese Restaurant and Hugo's Brew and Chew",
+      "Accommodation options include The Bridge Hotel in Smithton"
+    ]
+  },
+  "Man Airport": {
+    "tsa_precheck": null,
+    "liquid_policy": null,
+    "customs_info": null,
+    "terminal_tips": null,
+    "travel_tips": [
+      "Make sure to check the IATA code for the specific airport you are traveling to",
+      "Verify the location of the airport to avoid confusion with other places with similar names"
+    ]
+  },
+  "Bourges Airport": {
+    "tsa_precheck": null,
+    "liquid_policy": null,
+    "customs_info": null,
+    "terminal_tips": null,
+    "travel_tips": [
+      "Visit the Cathedral of St Etienne, a UNESCO heritage site",
+      "Explore the Palais de Jacques Coeur, a flamboyant work built by the richest man in France",
+      "Take a boat trip round the Marais area",
+      "Attend the music festival 'Le Printemps de Bourges' in April",
+      "Explore the Musee des Meilleurs Ouvriers de France for craftsmanship displays"
+    ]
+  },
+  "Indianapolis International Airport": {
+    "tsa_precheck": null,
+    "liquid_policy": null,
+    "customs_info": null,
+    "terminal_tips": null,
+    "travel_tips": [
+      "Visit the Indianapolis Motor Speedway for a racing experience",
+      "Explore the museums, zoo, and historic districts in the city",
+      "Enjoy the vibrant downtown area with its architecture and monuments",
+      "Be prepared for warm to hot summers and typical mid-western winters",
+      "Navigate the city easily with its logical grid system and lack of traffic congestion"
+    ]
+  }
+}
